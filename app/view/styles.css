@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+}
